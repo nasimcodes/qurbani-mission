@@ -8,11 +8,23 @@
 
 ---
 
-### 🖥 Animated Terminal Info
+### 🖥 Project Terminal Info
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF66&width=450&height=160&multiline=true&lines=PROJECT.INFO%3A;----------------------------------;Name++++++%3A+qurbani-mission;Domain++++%3A+qurbani-mission.netlify.app;Type++++++%3A+Web+Application;Status++++%3A+Active+%26+Deployed;Developer+%3A+Md+Nasim Babu" alt="Multilined Typing SVG" />
-</p>
+<table align="center" style="background-color: #0d1117;">
+  <tr>
+    <td>
+      <pre style="color: #00FF66; font-family: monospace; font-size: 13px;">
+<b>PROJECT.INFO:</b>
+--------------------------------------------
+<b>Name      :</b> qurbani-mission
+<b>Domain    :</b> <a href="https://qurbani-mission.netlify.app" target="_blank">qurbani-mission.netlify.app</a>
+<b>Type      :</b> Web Application / Management System
+<b>Status    :</b> Active & Deployed
+<b>Developer :</b> Md Nasim Babu (@nasimcodes)
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
