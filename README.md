@@ -8,23 +8,15 @@
 
 ---
 
-### 🖥 Project Terminal Info
+### 🖥 Animated Terminal Info
 
-<table align="center" style="background-color: #0d1117;">
-  <tr>
-    <td>
-      <pre style="color: #00FF66; font-family: monospace; font-size: 13px;">
-<b>PROJECT.INFO:</b>
---------------------------------------------
-<b>Name      :</b> qurbani-mission
-<b>Domain    :</b> <a href="https://qurbani-mission.netlify.app" target="_blank">qurbani-mission.netlify.app</a>
-<b>Type      :</b> Web Application / Management System
-<b>Status    :</b> Active & Deployed
-<b>Developer :</b> Md Nasim Babu (@nasimcodes)
-      </pre>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF66&center=true&vCenter=true&width=450&lines=PROJECT.INFO%3A+qurbani-mission" /><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF66&center=true&vCenter=true&width=450&lines=DOMAIN%3A+qurbani-mission.netlify.app" /><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF66&center=true&vCenter=true&width=450&lines=TYPE%3A+Web+App+%2F+Management+System" /><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF66&center=true&vCenter=true&width=450&lines=STATUS%3A+Active+%26+Live+Deployed" /><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF66&center=true&vCenter=true&width=450&lines=DEVELOPER%3A+Md+Nasim+Babu+(%40nasimcodes)" />
+</p>
 
 ---
 
